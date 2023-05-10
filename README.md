@@ -13,5 +13,6 @@ Daha sonra, bir döngü başlatılır ve her turda, kameradan bir görüntü al�
 
 "q" tuşuna basarak programı sonlandırabilir. Bu durumda, kamera kapatılır.
 
-![projee](https://github.com/alikarabulut3535/yangin-tespit/assets/122460361/f64afacd-04d1-4696-9b9c-f40a205b76de)
-![frame](https://github.com/alikarabulut3535/yangin-tespit/assets/122460361/83b04f9f-8b67-41c7-be5f-eaabd6b1bd3a)
+
+![projee](https://github.com/alikarabulut3535/yangin-tespit/assets/122460361/ae160711-514b-442c-a18a-45b9bb2be9eb)
+![frame](https://github.com/alikarabulut3535/yangin-tespit/assets/122460361/89a4b5d3-9309-4d31-a296-42623f421903)
